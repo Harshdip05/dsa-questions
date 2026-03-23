@@ -5,7 +5,7 @@ This repo contains solutions to **Data Structures & Algorithms (DSA)** and **SQL
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 Platforms I Use
 
 <p align="center">
   <a href="https://leetcode.com/u/Harshdip_016/">
