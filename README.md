@@ -8,23 +8,17 @@ This repo contains solutions to **Data Structures & Algorithms (DSA)** and **SQL
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://leetcode.com/your_username">
+  <a href="https://leetcode.com/u/Harshdip_016/">
     <img src="https://cdn.simpleicons.org/leetcode" width="50" height="50"/>
   </a>
-  <a href="https://codeforces.com/profile/your_username">
+  <a href="https://codeforces.com/profile/harshdipnandre05">
     <img src="https://cdn.simpleicons.org/codeforces" width="50" height="50"/>
   </a>
-  <a href="https://www.codechef.com/users/your_username">
+  <a href="https://www.codechef.com/users/happy_cape_25">
     <img src="https://cdn.simpleicons.org/codechef" width="50" height="50"/>
   </a>
-  <a href="https://www.hackerrank.com/your_username">
+  <a href="https://www.hackerrank.com/profile/harshdipnandre05">
     <img src="https://cdn.simpleicons.org/hackerrank" width="50" height="50"/>
-  </a>
-  <a href="https://github.com/your_username">
-    <img src="https://cdn.simpleicons.org/github" width="50" height="50"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your_username">
-    <img src="https://cdn.simpleicons.org/linkedin" width="50" height="50"/>
   </a>
 </p>
 
@@ -116,10 +110,10 @@ This is a personal practice repository, but suggestions are welcome!
 
 ## 📬 Connect with Me
 <p align="center">
- <a href="https://github.com/your_username">
+ <a href="https://github.com/Harshdip05">
     <img src="https://cdn.simpleicons.org/github" width="50" height="50"/>
   </a>
-  <a href="https://www.linkedin.com/in/your_username">
+  <a href="https://www.linkedin.com/in/harshdip-nandre-07b4a7395/">
     <img src="https://cdn.simpleicons.org/linkedin" width="50" height="50"/>
   </a>
 </p>
