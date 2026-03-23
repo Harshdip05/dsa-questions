@@ -11,27 +11,20 @@ This repo contains solutions to **Data Structures & Algorithms (DSA)** and **SQL
   <a href="https://leetcode.com/u/Harshdip_016/">
     <img src="https://cdn.simpleicons.org/leetcode" width="50" height="50"/>
   </a>
+
   <a href="https://codeforces.com/profile/harshdipnandre05">
     <img src="https://cdn.simpleicons.org/codeforces" width="50" height="50"/>
   </a>
+
   <a href="https://www.codechef.com/users/happy_cape_25">
     <img src="https://cdn.simpleicons.org/codechef" width="50" height="50"/>
   </a>
+
   <a href="https://www.hackerrank.com/profile/harshdipnandre05">
     <img src="https://cdn.simpleicons.org/hackerrank" width="50" height="50"/>
   </a>
+
 </p>
-
----
-
-## 🚀 Platforms
-
-Here are the platforms where I practice:
-
-* 🔹 Codeforces: https://codeforces.com/
-* 🔹 LeetCode: https://leetcode.com/
-* 🔹 CodeChef: https://www.codechef.com/
-* 🔹 HackerRank: https://www.hackerrank.com/
 
 ---
 
@@ -114,7 +107,7 @@ This is a personal practice repository, but suggestions are welcome!
     <img src="https://cdn.simpleicons.org/github" width="50" height="50"/>
   </a>
   <a href="https://www.linkedin.com/in/harshdip-nandre-07b4a7395/">
-    <img src="https://cdn.simpleicons.org/linkedin" width="50" height="50"/>
+    <img src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=tag&related_id=3536505" width="50" height="50"/>
   </a>
 </p>
 
