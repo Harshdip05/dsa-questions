@@ -107,7 +107,7 @@ This is a personal practice repository, but suggestions are welcome!
     <img src="https://cdn.simpleicons.org/github" width="50" height="50"/>
   </a>
   <a href="https://www.linkedin.com/in/harshdip-nandre-07b4a7395/">
-    <img src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=tag&related_id=3536505" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="50" height="50"/>
   </a>
 </p>
 
