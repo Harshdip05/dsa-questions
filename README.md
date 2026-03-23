@@ -5,6 +5,31 @@ This repo contains solutions to **Data Structures & Algorithms (DSA)** and **SQL
 
 ---
 
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://leetcode.com/your_username">
+    <img src="https://cdn.simpleicons.org/leetcode" width="50" height="50"/>
+  </a>
+  <a href="https://codeforces.com/profile/your_username">
+    <img src="https://cdn.simpleicons.org/codeforces" width="50" height="50"/>
+  </a>
+  <a href="https://www.codechef.com/users/your_username">
+    <img src="https://cdn.simpleicons.org/codechef" width="50" height="50"/>
+  </a>
+  <a href="https://www.hackerrank.com/your_username">
+    <img src="https://cdn.simpleicons.org/hackerrank" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/your_username">
+    <img src="https://cdn.simpleicons.org/github" width="50" height="50"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your_username">
+    <img src="https://cdn.simpleicons.org/linkedin" width="50" height="50"/>
+  </a>
+</p>
+
+---
+
 ## 🚀 Platforms
 
 Here are the platforms where I practice:
@@ -90,8 +115,23 @@ This is a personal practice repository, but suggestions are welcome!
 ---
 
 ## 📬 Connect with Me
+<p align="center">
+ <a href="https://github.com/your_username">
+    <img src="https://cdn.simpleicons.org/github" width="50" height="50"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your_username">
+    <img src="https://cdn.simpleicons.org/linkedin" width="50" height="50"/>
+  </a>
+</p>
 
-(Add your LinkedIn / GitHub profile here)
+---
+
+
+## 📸 My Coding Journey
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
 
 ---
 
